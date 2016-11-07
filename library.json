@@ -1,0 +1,12 @@
+{
+  "name": "SHT2x",
+  "frameworks": "Arduino",
+  "keywords": "temperature, humidity, i2c, wire",
+  "description": "library for Sensirion temperature and humidity sensor (ex. SHT21)",
+  "url": "https://github.com/PlantFactory/SHT2x",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/PlantFactory/SHT2x.git"
+  }
+}
